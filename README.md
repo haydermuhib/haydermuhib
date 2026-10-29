@@ -47,11 +47,22 @@
 
 ---
 
-### ⚡ Snapshot
+```python
+class DataScientist:
+    name: str = "Haider Ali"
+    education: str = "BS in Data Science"
+    os: str = "Fedora Linux 🐧"
 
-* 🎓 **Academic:** BS in Data Science
-* 🔬 **Modern Standard:** Building next-generation data science systems with **Marimo** (reactive, git-friendly computing), **Pixi** (fast, deterministic Rust-backed environments), and **DuckDB** (in-process analytical SQL)
-* 📊 **Focus Areas:** Product Analytics, Customer Lifecycle (Cohort/RFM), Statistical Experimentation & Supervised ML
+    # Modern reactive standard
+    primary_stack: list[str] = ["Marimo", "Pixi", "DuckDB", "Apache Parquet", "Scikit-Learn"]
+    legacy_tools: list[str] = ["Jupyter", "Streamlit"]  # phasing out
+
+    core_focus: list[str] = [
+        "Product Analytics & Statistical Experimentation (Two-Sample Z-Tests, Power Curves)",
+        "Customer Lifecycle Diagnostics & 30-Day Cohort Decay Modeling",
+        "Predictive Machine Learning & Clinical Risk Stratification",
+    ]
+```
 
 ---
 
