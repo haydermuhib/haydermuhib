@@ -3,17 +3,19 @@
   # Hi there, I'm Haider Ali 👋
   ### 📊 Data Scientist & Analytics Engineer
   
+  [![Marimo](https://img.shields.io/badge/Notebook-Marimo-10b981?style=for-the-badge&logo=python&logoColor=white)](https://marimo.io)
+  [![Pixi](https://img.shields.io/badge/Environment-Pixi-blue?style=for-the-badge&logo=rust&logoColor=white)](https://pixi.sh)
+  [![DuckDB](https://img.shields.io/badge/Database-DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org)
+  [![Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
   [![Website](https://img.shields.io/badge/Portfolio-haiderdaportfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://haiderdaportfolio.vercel.app)
   [![Email](https://img.shields.io/badge/Email-haydermuhib%40tutamail.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:haydermuhib@tutamail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-haydermuhib-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haydermuhib)
-  [![Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
 
   <p align="center">
     <b>BS in Data Science</b> • Focused on <b>Product Growth Analytics</b>, <b>Statistical Experimentation</b> & <b>Decision Intelligence</b>.
   </p>
 
   <p align="center">
-    I build production-grade, reproducible data systems that turn raw transactional logs and enterprise datasets into actionable commercial strategy.
+    <i>Shifting the data science paradigm from legacy JSON notebooks (Jupyter) and monolithic dashboard frameworks (Streamlit) towards <b>reactive, git-friendly reproducible computing with Marimo</b> and <b>deterministic Rust-powered dependency management with Pixi</b>.</i>
   </p>
 
 </div>
@@ -25,45 +27,71 @@
 ```mermaid
 mindmap
   root((Data Science & Analytics))
+    Modern Reactive Stack
+      Marimo Reactive Notebooks & Apps
+      Pixi Deterministic Envs
+      DuckDB Columnar In-Process SQL
+      Apache Parquet Storage
     Statistical Inference
       A/B Hypothesis Testing
       Two-Sample Z-Tests
-      Power & Sample Size Modeling
+      Power & Sample Size Curves
       Cohort Retention Decay
     Machine Learning & Modeling
+      HistGradientBoosting
       Random Forest Classification
       Customer Churn Prediction
       Quantile RFM Segmentation
-      Feature Engineering
-    Data & Analytics Engineering
+    Analytical Foundations
       Python Pandas & NumPy
+      Scikit-Learn Pipelines
       SQL PostgreSQL SQLite
-      DuckDB & Apache Parquet
-      Data Cleaning & Harmonization
-    Interactive BI & Communication
-      Streamlit Applications
-      Matplotlib OO Architecture
-      Seaborn Statistical Plots
-      Executive Data Storytelling
+      Legacy Streamlit Transitioned
 ```
 
 <div align="center">
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Languages** | `Python (Pandas, NumPy, Scikit-Learn)` • `SQL (PostgreSQL, SQLite, DuckDB)` • `Bash` |
-| **Data & Storage** | `Apache Parquet` • `DuckDB Columnar Engine` • `SQLite` • `PostgreSQL` |
-| **Interactive Dashboards & Viz** | `Streamlit` • `Matplotlib (Object-Oriented API)` • `Seaborn` • `Plotly` |
-| **Methodologies & Analysis** | `A/B Testing` • `Cohort Decay Matrices` • `RFM Clustering` • `People Analytics` • `ML Classification` |
-| **Environment & Tooling** | `Fedora Linux` • `Pixi` • `Jupyter Notebooks` • `Git / GitHub CLI` • `Docker` |
+| Layer | Primary / Modern Standard | Foundation & Transitioned Stack |
+| :--- | :--- | :--- |
+| **Reactive Apps & Notebooks** | **`Marimo`** (Reactive, pure-Python, zero hidden state) | `Streamlit` *(transitioning)*, `Jupyter` *(legacy)* |
+| **Package & Env Management** | **`Pixi`** (Deterministic, multi-platform, Rust-backed) | `Pip`, `Venv`, `Conda` |
+| **Data Engine & Storage** | **`DuckDB`**, **`Apache Parquet`** (Columnar, zero-copy) | `SQLite`, `PostgreSQL`, `CSV` |
+| **Modeling & Analytics** | `Scikit-Learn (Pipelines, HistGradientBoosting)`, `Z-Tests` | `Cohort Decay Matrices`, `RFM Quintiles`, `Random Forest` |
+| **Visualizations** | `Plotly (Interactive)`, `Matplotlib (OO Architecture)` | `Seaborn (Statistical Distributions)` |
+| **Environment** | `Fedora Linux`, `Git & GitHub CLI`, `Docker` | `Bash Scripting`, `POSIX Automation` |
 
 </div>
 
 ---
 
-### 🚀 Featured Analytical Projects
+### 🚀 Flagship & Featured Projects
 
 <table>
+  <!-- FLAGSHIP: MARIMO + PIXI + DUCKDB -->
+  <tr>
+    <td width="100%">
+      <div align="center">
+        <h3>⚡ Flagship: CardioPulse — Clinical Risk & Readmission Intelligence</h3>
+        <p><b>Modern Stack:</b> Marimo Reactive Notebook & Web App • Pixi • DuckDB • Scikit-Learn • Plotly</p>
+      </div>
+      
+      <p>An end-to-end clinical data science platform analyzing <b>100,000 inpatient encounters</b> to predict 30-day unplanned hospital readmissions. Showcases a modern reactive architecture ditching traditional Jupyter/Streamlit constraints for ultra-fast in-memory analytical queries.</p>
+      
+      <ul>
+        <li><b>High-Throughput Analytics:</b> Sub-50ms analytical queries directly over columnar Parquet via <b>DuckDB</b> (100k records compressed to 533 KB ZSTD).</li>
+        <li><b>Reactive Architecture:</b> Built entirely as a reproducible, git-friendly <b>Marimo</b> reactive application managed deterministically with <b>Pixi</b>.</li>
+        <li><b>Predictive Power:</b> Class-balanced <code>HistGradientBoosting</code> pipeline achieving <b>0.804 ROC-AUC</b> with a calibrated triage threshold capturing 78.5% of high-risk readmissions prior to discharge.</li>
+        <li><b>Reliability:</b> Backed by 17 automated unit tests covering ETL, DuckDB queries, and Plotly visual components.</li>
+      </ul>
+      
+      <p align="center">
+        <a href="https://huggingface.co/spaces/haydermuhib/hospital-readmission-marimo"><b>🌐 Launch Interactive Marimo App (Hugging Face)</b></a> • 
+        <a href="https://github.com/haydermuhib/hospital-readmission-marimo"><b>📂 Explore GitHub Repository</b></a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- PROJECT 01 -->
   <tr>
     <td width="100%">
       <div align="center">
@@ -87,6 +115,7 @@ mindmap
     </td>
   </tr>
 
+  <!-- PROJECT 02 -->
   <tr>
     <td width="100%">
       <div align="center">
@@ -110,6 +139,7 @@ mindmap
     </td>
   </tr>
 
+  <!-- PROJECT 03 -->
   <tr>
     <td width="100%">
       <div align="center">
@@ -162,7 +192,7 @@ mindmap
   
   ### 📬 Let's Connect & Collaborate
   
-  Whether you are looking to discuss **data analytics roles**, **predictive modeling**, or **business intelligence systems**:
+  Whether you are looking to discuss **data analytics roles**, **predictive modeling**, or **modern reactive data architectures**:
   
   [![Email](https://img.shields.io/badge/Email-haydermuhib%40tutamail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white)](mailto:haydermuhib@tutamail.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-haiderdaportfolio.vercel.app-00E5FF?style=flat-square&logo=vercel&logoColor=black)](https://haiderdaportfolio.vercel.app)
