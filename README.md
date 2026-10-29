@@ -121,23 +121,26 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/haydermuhib">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="Haider's GitHub Stats" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=default&hide_border=false&count_private=true#gh-light-mode-only" alt="Haider's GitHub Stats" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=default&hide_border=false&count_private=true">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haider's GitHub Stats" />
+  </picture>
   &nbsp;&nbsp;
-  <a href="https://github.com/haydermuhib">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=default&hide_border=false#gh-light-mode-only" alt="Top Languages" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=default&hide_border=false">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
   <br/>
-  <a href="https://github.com/haydermuhib">
-    <img src="https://streak-stats.demolab.com/?user=haydermuhib&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak" />
-    <img src="https://streak-stats.demolab.com/?user=haydermuhib&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=haydermuhib&theme=tokyonight&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=haydermuhib&theme=default&hide_border=false">
+    <img src="https://streak-stats.demolab.com/?user=haydermuhib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </picture>
 </div>
 
 <br/>
