@@ -3,6 +3,10 @@
   <img src="./assets/header.svg" width="100%" alt="Haider Ali - Data Scientist & Analytics Engineer" />
 
   <p align="center">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=550&lines=Data+Scientist+%26+Analytics+Engineer;Modern+Reactive+Stack%3A+Marimo+%2B+Pixi;Sub-50ms+SQL+Analytics+with+DuckDB;Product+Growth+%26+Retention+Modeling" alt="Typing Tagline" />
+  </p>
+
+  <p align="center">
     <a href="https://haiderdaportfolio.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
     <a href="mailto:haydermuhib@tutamail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
     <a href="https://github.com/haydermuhib"><b>🐙 GitHub</b></a> &nbsp;•&nbsp;
@@ -11,35 +15,35 @@
 
   <p align="center">
     <a href="https://marimo.io" target="_blank" rel="noreferrer" title="Marimo">
-      <img src="https://marimo.io/logo.png" width="42" height="42" alt="Marimo" />
+      <img src="https://marimo.io/logo.png" width="40" height="40" alt="Marimo" />
     </a>
     &nbsp;&nbsp;
     <a href="https://pixi.sh" target="_blank" rel="noreferrer" title="Pixi">
-      <img src="https://pixi.prefix.dev/latest/assets/pixi-logo.svg" width="42" height="42" alt="Pixi" />
+      <img src="https://pixi.prefix.dev/latest/assets/pixi-logo.svg" width="40" height="40" alt="Pixi" />
     </a>
     &nbsp;&nbsp;
     <a href="https://duckdb.org" target="_blank" rel="noreferrer" title="DuckDB">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" width="42" height="42" alt="DuckDB" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" width="40" height="40" alt="DuckDB" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL" />
     </a>
     &nbsp;&nbsp;
     <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" title="Pandas">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42" alt="Pandas" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
     </a>
     &nbsp;&nbsp;
     <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer" title="Seaborn">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="42" height="42" alt="Seaborn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40" alt="Seaborn" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
     </a>
     &nbsp;&nbsp;
     <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="Scikit-Learn">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="42" height="42" alt="Scikit-Learn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="40" height="40" alt="Scikit-Learn" />
     </a>
   </p>
 
@@ -66,66 +70,48 @@ class DataScientist:
 
 ---
 
-### 🚀 Featured Case Studies & Systems
+### 🚀 Curated Showcase
 
-#### ⚡ [CardioPulse: Clinical Risk & Readmission Intelligence](https://github.com/haydermuhib/hospital-readmission-marimo)
-> **Flagship Showcase:** Marimo Reactive Web App • Pixi • DuckDB • Scikit-Learn • Plotly  
-> **Dataset Scale:** 100,000 Inpatient Encounters (Compressed to 533 KB Columnar Parquet)
+#### ⚡ [CardioPulse: Hospital Clinical Risk Intelligence](https://github.com/haydermuhib/hospital-readmission-marimo)
+> Predicting 30-day clinical readmissions across 100,000 inpatient encounters with sub-50ms columnar queries.
 
-* **High-Throughput Analytics:** Sub-50ms queries directly over columnar Parquet via **DuckDB**, bypassing heavy database overhead.
-* **Modern Reactive Architecture:** Built entirely as a reproducible, git-friendly **Marimo** reactive application managed deterministically with **Pixi**.
-* **Predictive Performance:** Class-balanced `HistGradientBoosting` model achieving **0.804 ROC-AUC**, capturing 78.5% of high-risk readmissions before discharge.
-* **Production Integrity:** Backed by 17 automated unit tests covering ETL pipelines, DuckDB SQL queries, and Plotly interactive charts.
-
+`Marimo` • `Pixi` • `DuckDB` • `Scikit-Learn` • `Plotly`  
 [![Live App](https://img.shields.io/badge/Live_App-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/haydermuhib/hospital-readmission-marimo)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haydermuhib/hospital-readmission-marimo)
 
 ---
 
-#### 🛒 [E-Commerce Product Analytics & Experimentation Engine](https://github.com/haydermuhib/01_ecommerce_product_analytics)
-> **Discipline:** Supervised ML (Churn Classification) • Statistical A/B Testing • Product Growth Analytics  
-> **Dataset Scale:** 540,000+ Real International Retail Transactions • SQLite Analytical Engine
+#### 🛒 [E-Commerce Growth & Churn Simulator](https://github.com/haydermuhib/01_ecommerce_product_analytics)
+> Statistical A/B testing simulator and Random Forest churn classifier analyzing 540k+ real retail transactions.
 
-* **Cohort Dynamics:** Modeled monthly retention decay, uncovering an immediate 60% attrition drop in the first 30 days that stabilizes into predictable buying cadence.
-* **Pareto Revenue Concentration:** Isolated VIP Champions who generate >35% of total gross revenue despite representing <8% of the customer base.
-* **Hypothesis Testing Simulator:** Built an interactive A/B testing simulator with Two-Sample Z-proportion tests, critical rejection boundaries, and statistical power curves.
-* **Predictive Churn Engine:** Deployed a Scikit-Learn Random Forest churn classifier within a custom Neumorphic Dark Streamlit interface.
-
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://01ecommerce-analytics.streamlit.app/)
+`Python` • `SQLite` • `Scikit-Learn` • `Streamlit`  
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://01ecommerce-analytics.streamlit.app/)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haydermuhib/01_ecommerce_product_analytics)
 
 ---
 
 #### 👥 [User Cohort & RFM Lifecycle Analytics](https://github.com/haydermuhib/02_user_cohort_rfm_analytics)
-> **Discipline:** Customer Lifecycle Diagnostics • CRM Retention Strategy • Behavioral Segmentation  
-> **Dataset Scale:** Multi-Market International Retail Purchasing • 12+ Month Window
+> Behavioral CRM analytics identifying 30-day retention decay and revenue Pareto concentration across international markets.
 
-* **Retention Cliff Identification:** Quantified acquisition decay from 100% to 20%–25% by month 1, establishing the first 30 days as the highest-leverage retention window.
-* **Customer Segmentation:** Quintile scoring across Recency, Frequency, and Monetary dimensions to classify customers into actionable CRM tiers (Champions, Loyal, At-Risk, Hibernating).
-* **Data Integrity:** Isolated guest checkout anomalies (24% of volume) to safeguard cohort matrix integrity against behavioral distortion.
-
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://02usercohortrfmanalytics.streamlit.app/)
+`Python` • `Pandas` • `Seaborn` • `Streamlit`  
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://02usercohortrfmanalytics.streamlit.app/)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haydermuhib/02_user_cohort_rfm_analytics)
 
 ---
 
 #### 🏢 [People Analytics: Employee Exit Survey Diagnostics](https://github.com/haydermuhib/03_employee_exit_surveys)
-> **Discipline:** Workforce Intelligence • Cross-Institutional Survey Harmonization • Career Vulnerability  
-> **Dataset Scale:** 6,600+ Raw Survey Records • 3,868 Voluntary Resignations (DETE vs. TAFE)
+> Cross-institutional workforce intelligence analyzing voluntary resignation friction drivers across 6,600+ records.
 
-* **Tenure Vulnerability:** Discovered that veteran personnel (11+ years of service) resign due to dissatisfaction at 1.6x the rate of early-career employees (52.6% vs. 32.6%).
-* **Institutional Friction Disparity:** Quantified structural workload fatigue and administrative friction, showing DETE exhibited 46.5% resignation dissatisfaction vs. 30.2% in TAFE.
-* **Schema Normalization:** Standardized two disparate institutional survey architectures into a high-performance Apache Parquet datastore.
-
-[![Live App](https://img.shields.io/badge/Live_App-Streamlit_Cloud-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://03employeeexitsurveys.streamlit.app/)
+`Python` • `Parquet` • `Matplotlib` • `Streamlit`  
+[![Live App](https://img.shields.io/badge/Live_App-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://03employeeexitsurveys.streamlit.app/)
 [![Source Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/haydermuhib/03_employee_exit_surveys)
 
 ---
 
-### ⚡ Infrastructure & Pipeline Tools
+### ⚡ Quick Utilities
 
-* **[learn-duckdb](https://github.com/haydermuhib/learn-duckdb):** In-process analytical SQL benchmarks, columnar Parquet scanning, and query plan optimization.
-* **[GMapsScraper](https://github.com/haydermuhib/GMapsScraper):** High-throughput multithreaded CLI extraction engine for spatial lead intelligence.
+* **[learn-duckdb](https://github.com/haydermuhib/learn-duckdb):** Vectorized in-process analytical SQL & columnar query execution.
+* **[GMapsScraper](https://github.com/haydermuhib/GMapsScraper):** High-throughput multithreaded automated data extraction engine.
 
 ---
 
