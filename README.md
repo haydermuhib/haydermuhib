@@ -3,7 +3,7 @@
   <img src="./assets/header.svg" width="100%" alt="Haider Ali - Data Scientist & Analytics Engineer" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=550&lines=Data+Scientist+%26+Analytics+Engineer;Modern+Reactive+Stack%3A+Marimo+%2B+Pixi;Sub-50ms+SQL+Analytics+with+DuckDB;Product+Growth+%26+Retention+Modeling" alt="Typing Tagline" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1200&color=10B981&center=true&vCenter=true&width=550&lines=BS+in+Data+Science+(1st+Semester);Modern+Reactive+Stack%3A+Marimo+%2B+Pixi;Sub-50ms+SQL+Analytics+with+DuckDB;Product+Growth+%26+Retention+Modeling" alt="Typing Tagline" />
   </p>
 
   <p align="center">
@@ -54,7 +54,8 @@
 ```python
 class DataScientist:
     name: str = "Haider Ali"
-    education: str = "BS in Data Science"
+    degree: str = "BS in Data Science"
+    semester: str = "1st Semester"
     os: str = "Fedora Linux 🐧"
 
     # Modern reactive standard
