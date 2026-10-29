@@ -7,10 +7,19 @@
   </p>
 
   <p align="center">
-    <a href="https://haiderdaportfolio.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
-    <a href="mailto:haydermuhib@tutamail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
-    <a href="https://github.com/haydermuhib"><b>🐙 GitHub</b></a> &nbsp;•&nbsp;
-    <b>🐧 Fedora Linux</b>
+    <a href="https://haiderdaportfolio.vercel.app">
+      <img src="https://img.shields.io/badge/Portfolio-haiderdaportfolio-00E5FF?style=flat-square&logo=vercel&logoColor=black" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="mailto:haydermuhib@tutamail.com">
+      <img src="https://img.shields.io/badge/Email-haydermuhib%40tutamail.com-EA4335?style=flat-square&logo=maildotru&logoColor=white" alt="Email" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/haydermuhib">
+      <img src="https://img.shields.io/badge/GitHub-haydermuhib-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/OS-Fedora_Linux-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora Linux" />
   </p>
 
   <p align="center">
