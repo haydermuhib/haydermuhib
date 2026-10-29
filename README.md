@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=190&section=header&text=Haider%20Ali&fontSize=42&fontAlignY=38&desc=Data%20Scientist%20%26%20Analytics%20Engineer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+  <img src="./assets/header.svg" width="100%" alt="Haider Ali - Data Scientist & Analytics Engineer" />
 
   <p align="center">
     <a href="https://haiderdaportfolio.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
@@ -31,7 +31,7 @@
     </a>
     &nbsp;&nbsp;
     <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer" title="Seaborn">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="42" height="42" alt="Seaborn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="42" height="42" alt="Seaborn" />
     </a>
     &nbsp;&nbsp;
     <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
@@ -121,30 +121,27 @@
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haydermuhib&show_icons=true&theme=default&hide_border=false&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Haider's GitHub Stats" />
-  </picture>
+  <a href="https://github.com/haydermuhib">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=tokyonight&hide_border=true&count_private=true#gh-dark-mode-only" alt="Haider's GitHub Stats" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=haydermuhib&show_icons=true&theme=default&hide_border=false&count_private=true#gh-light-mode-only" alt="Haider's GitHub Stats" />
+  </a>
   &nbsp;&nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=default&hide_border=false">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </picture>
+  <a href="https://github.com/haydermuhib">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=haydermuhib&layout=compact&theme=default&hide_border=false#gh-light-mode-only" alt="Top Languages" />
+  </a>
 </div>
 
 <div align="center">
   <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haydermuhib&theme=tokyonight&hide_border=true">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haydermuhib&theme=default&hide_border=false">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haydermuhib&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </picture>
+  <a href="https://github.com/haydermuhib">
+    <img src="https://streak-stats.demolab.com/?user=haydermuhib&theme=tokyonight&hide_border=true#gh-dark-mode-only" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=haydermuhib&theme=default&hide_border=false#gh-light-mode-only" alt="GitHub Streak" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,24,30&height=90&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt="Footer" />
 </div>
