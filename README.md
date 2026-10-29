@@ -3,12 +3,46 @@
   # Hi there, I'm Haider Ali 👋
   ### 📊 Data Scientist & Analytics Engineer
   
-  [![Marimo](https://img.shields.io/badge/Notebook-Marimo-10b981?style=for-the-badge&logo=python&logoColor=white)](https://marimo.io)
-  [![Pixi](https://img.shields.io/badge/Environment-Pixi-blue?style=for-the-badge&logo=rust&logoColor=white)](https://pixi.sh)
-  [![DuckDB](https://img.shields.io/badge/Database-DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)](https://duckdb.org)
-  [![Linux](https://img.shields.io/badge/Fedora_Linux-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)](https://fedoraproject.org/)
-  [![Website](https://img.shields.io/badge/Portfolio-haiderdaportfolio-00E5FF?style=for-the-badge&logo=vercel&logoColor=black)](https://haiderdaportfolio.vercel.app)
-  [![Email](https://img.shields.io/badge/Email-haydermuhib%40tutamail.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:haydermuhib@tutamail.com)
+  <p align="center">
+    <a href="https://haiderdaportfolio.vercel.app"><b>🌐 Portfolio</b></a> &nbsp;•&nbsp;
+    <a href="mailto:haydermuhib@tutamail.com"><b>✉️ Email</b></a> &nbsp;•&nbsp;
+    <a href="https://github.com/haydermuhib"><b>🐙 GitHub</b></a> &nbsp;•&nbsp;
+    <b>🐧 Fedora Linux</b>
+  </p>
+
+  <p align="center">
+    <a href="https://marimo.io" target="_blank" rel="noreferrer" title="Marimo">
+      <img src="https://marimo.io/logo.png" width="46" height="46" alt="Marimo" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://pixi.sh" target="_blank" rel="noreferrer" title="Pixi">
+      <img src="https://pixi.prefix.dev/latest/assets/pixi-logo.svg" width="46" height="46" alt="Pixi" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://duckdb.org" target="_blank" rel="noreferrer" title="DuckDB">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" width="46" height="46" alt="DuckDB" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="46" height="46" alt="PostgreSQL" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://pandas.pydata.org" target="_blank" rel="noreferrer" title="Pandas">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="46" height="46" alt="Pandas" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://seaborn.pydata.org" target="_blank" rel="noreferrer" title="Seaborn">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="46" height="46" alt="Seaborn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="46" height="46" alt="Python" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://scikit-learn.org" target="_blank" rel="noreferrer" title="Scikit-Learn">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="46" height="46" alt="Scikit-Learn" />
+    </a>
+  </p>
 
   <p align="center">
     <b>BS in Data Science</b> • Focused on <b>Product Growth Analytics</b>, <b>Statistical Experimentation</b> & <b>Decision Intelligence</b>.
@@ -53,12 +87,12 @@ mindmap
 
 | Layer | Primary / Modern Standard | Foundation & Transitioned Stack |
 | :--- | :--- | :--- |
-| **Reactive Apps & Notebooks** | **`Marimo`** (Reactive, pure-Python, zero hidden state) | `Streamlit` *(transitioning)*, `Jupyter` *(legacy)* |
-| **Package & Env Management** | **`Pixi`** (Deterministic, multi-platform, Rust-backed) | `Pip`, `Venv`, `Conda` |
-| **Data Engine & Storage** | **`DuckDB`**, **`Apache Parquet`** (Columnar, zero-copy) | `SQLite`, `PostgreSQL`, `CSV` |
-| **Modeling & Analytics** | `Scikit-Learn (Pipelines, HistGradientBoosting)`, `Z-Tests` | `Cohort Decay Matrices`, `RFM Quintiles`, `Random Forest` |
-| **Visualizations** | `Plotly (Interactive)`, `Matplotlib (OO Architecture)` | `Seaborn (Statistical Distributions)` |
-| **Environment** | `Fedora Linux`, `Git & GitHub CLI`, `Docker` | `Bash Scripting`, `POSIX Automation` |
+| **Reactive Apps & Notebooks** | <img src="https://marimo.io/logo.png" width="16" height="16" valign="middle"/> **`Marimo`** (Reactive, pure-Python, zero hidden state) | `Streamlit` *(transitioning)*, `Jupyter` *(legacy)* |
+| **Package & Env Management** | <img src="https://pixi.prefix.dev/latest/assets/pixi-logo.svg" width="16" height="16" valign="middle"/> **`Pixi`** (Deterministic, multi-platform, Rust-backed) | `Pip`, `Venv`, `Conda` |
+| **Data Engine & Storage** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/duckdb/duckdb-original.svg" width="16" height="16" valign="middle"/> **`DuckDB`**, **`Apache Parquet`** (Columnar, zero-copy) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="14" height="14" valign="middle"/> `PostgreSQL`, `SQLite` |
+| **Data Processing & ML** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="16" height="16" valign="middle"/> `Pandas`, `NumPy`, `Scikit-Learn (HistGradientBoosting)` | `Cohort Decay Matrices`, `RFM Quintiles`, `Random Forest` |
+| **Visualizations** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="16" height="16" valign="middle"/> `Plotly`, `Matplotlib (OO Architecture)` | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="16" height="16" valign="middle"/> `Seaborn (Statistical Distributions)` |
+| **Operating System & Tooling** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" width="16" height="16" valign="middle"/> `Fedora Linux`, `Git / GitHub CLI`, `Docker` | `Bash Automation`, `POSIX Scripts` |
 
 </div>
 
